@@ -4,7 +4,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is a Git test from eclipse");
+		System.out.println("This is a Git test from Java eclipse");
 
 	}
 
